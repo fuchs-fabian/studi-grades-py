@@ -96,7 +96,7 @@ When a PDF file is read in, you get an overview of all this at the very beginnin
 
 ## Needed support
 
-There are a few `TODOs` in the code that would certainly be good to implement.
+There are a few `TODO`s in the code that would certainly be good to implement.
 
 It would also be really cool to maybe create graphs or something?
 
